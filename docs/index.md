@@ -1,17 +1,17 @@
-# Welcome to MkDocs
+# Raiane News
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Olá, meu nome é *Raiane*. 
 
-## Commands
+Trabalho com **processos administrativos** há 8 anos e estou começando a aprender sobre **tecnologia**. Gosto de **compartilhar o meu conhecimento** e acredito que posso ajudar meus colegas a melhorarem suas rotinas de trabalho com isso.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+[Veja meu perfil no Github](https://github.com/raianecardoso)
 
-## Project layout
+## O que estou aprendendo:
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- Git 
+- GitHub
+- Comandos do Terminal
+
+## O que ainda vou aprender: 
+
+- Python
