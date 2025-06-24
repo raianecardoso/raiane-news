@@ -6,6 +6,8 @@ Trabalho com **processos administrativos** há 8 anos e estou começando a apren
 
 [Veja meu perfil no Github](https://github.com/raianecardoso)
 
+![imagem_inicial](https://blush.design/api/download?shareUri=-dQ1Kk3HlChTeTf_&c=Hair_0%7Ec83ffd_New%2520Palette%25201_0%7Ef2f2f2_Skin_0%7Ec5cfff&w=800&h=800&fm=png)
+
 ## O que estou aprendendo:
 
 - Git 
