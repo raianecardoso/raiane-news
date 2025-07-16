@@ -1,3 +1,3 @@
 # Blog
 
-Este é o meu blog, navegue pelos posts e saiba mais.
+Este é o meu blog. Navegue pelos posts e saiba mais!
