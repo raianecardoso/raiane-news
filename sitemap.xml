@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://mydomain.org/mysite/</loc>
+         <loc>https://raianecardoso.github.io/raiane-news/</loc>
          <lastmod>2025-07-22</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/blog/</loc>
+         <loc>https://raianecardoso.github.io/raiane-news/blog/</loc>
          <lastmod>2025-07-22</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/blog/ideias_posts/</loc>
+         <loc>https://raianecardoso.github.io/raiane-news/blog/ideias_posts/</loc>
          <lastmod>2025-07-22</lastmod>
     </url>
 </urlset>
